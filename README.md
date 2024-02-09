@@ -1,1 +1,1 @@
-XBlocker (formerly Twitter)
+XBlocker is trying to defy government-organized/backed X accounts.
