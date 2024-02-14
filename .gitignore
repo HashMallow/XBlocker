@@ -6,4 +6,5 @@ node_modules/
 *.env
 Cleaner/.ipynb_checkpoints/
 Cleaner/.virtual_documents/
+Cleaner/bio.xlsx
 
